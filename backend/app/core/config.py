@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     VERSION: str = "1.0.0"
     
     # AI Configuration
-    GEMINI_API_KEY: str
+    GROQ_API_KEY: str
 
     # Pydantic Settings Config
     model_config = SettingsConfigDict(
