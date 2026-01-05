@@ -1,22 +1,6 @@
-# Python
+backend/.venv/
+frontend/app/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.venv/
-pip-log.txt
 
-# Environment Variables (NEVER COMMIT THESE)
-.env
-.env.local
-
-# IDEs
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
+backend/.env
